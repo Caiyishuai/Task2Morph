@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/caiyishuai/workTable/DiffHand/core/externals/tiny_obj_loader/tiny_obj_loader.cpp
+tiny_obj_loader.h
+/home/caiyishuai/workTable/DiffHand/core/externals/tiny_obj_loader/tiny_obj_loader.h
+
+/home/caiyishuai/workTable/DiffHand/core/externals/tiny_obj_loader/tiny_obj_loader.h
+map
+-
+string
+-
+vector
+-
+cassert
+-
+cctype
+-
+cmath
+-
+cstddef
+-
+cstdlib
+-
+cstring
+-
+limits
+-
+utility
+-
+fstream
+-
+sstream
+-
+
