@@ -1,4 +1,4 @@
-name: diffhand
+name: task2morph
 channels:
   - pytorch
   - defaults
