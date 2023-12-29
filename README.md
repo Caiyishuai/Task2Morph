@@ -81,21 +81,21 @@ bash demo.sh
 or
 
 ```bash
-cd tak2mroph/01_finger_reach
+cd task2morph/01_finger_reach
 python 03_reach_Task2Morph.py
 ```
 
 If you want to run the `DiffHand` method
 
 ```bash
-cd tak2mroph/01_finger_reach
+cd task2morph/01_finger_reach
 python 02_reach_DiffHand.py
 ```
 
 If you want to train a task-to-morphology mapping
 
 ```
-cd tak2mroph/01_finger_reach
+cd task2morph/01_finger_reach
 python 01_reach_train_model.py
 ```
 
