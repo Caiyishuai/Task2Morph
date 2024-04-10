@@ -1,4 +1,4 @@
-# Task2Morph
+# Task2Morph (IROS2023)
 
 This repository contains the implementation for the paper **Task2Morph: Differentiable Task-inspired Framework**
 **for Robot Design** (2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)). 
