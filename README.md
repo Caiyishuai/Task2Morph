@@ -1,7 +1,9 @@
 # Task2Morph
 
 This repository contains the implementation for the paper **Task2Morph: Differentiable Task-inspired Framework**
-**for Robot Design**. 
+**for Robot Design** (2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)). 
+
+Paper: https://arxiv.org/abs/2403.19093 [https://arxiv.org/abs/2403.19093]
 
 In this paper, we propose a novel and general differentiable task-inspired framework for robot design
 called Task2Morph. We abstract task features highly related to task performance and use them to build a task-to-morphology mapping. Further, we embed the mapping into a differentiable robot design process, where the gradient information is leveraged for both the mapping learning and the whole optimization.
