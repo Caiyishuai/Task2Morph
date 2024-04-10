@@ -12,7 +12,7 @@ called Task2Morph. We abstract task features highly related to task performance 
 
 
 
-Our paper cites **DiffHand**
+Our paper cites **DiffHand** https://github.com/eanswer/DiffHand.git
 
 ```
 @INPROCEEDINGS{Xu-RSS-21, 
