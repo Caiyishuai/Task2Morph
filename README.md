@@ -105,11 +105,11 @@ python 01_reach_train_model.py
 If you find our work useful, please consider citing us! 
 
 ```bibtex
-@inproceedings{cai2023task2morph,
-  title={Task2Morph: Differentiable Task-Inspired Framework for Contact-Aware Robot Design},
-  author={Cai, Yishuai and Yang, Shaowu and Li, Minglong and Chen, Xinglin and Mao, Yunxin and Yi, Xiaodong and Yang, Wenjing},
+@inproceedings{chen2023evolving,
+  title={Evolving Physical Instinct for Morphology and Control Co-Adaption},
+  author={Chen, Xinglin and Huang, Da and Li, Minglong and Cai, Yishuai and Wen, Zhuoer and Cai, Zhongxuan and Yang, Wenjing},
   booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={452--459},
+  pages={6616--6623},
   year={2023},
   organization={IEEE}
 }
